@@ -1,0 +1,84 @@
+h1{
+    color:rgb(0, 2, 128); 
+    font-size:30px;
+font-family:sans-serif;
+}
+body{
+    text-align: center;
+
+    margin:0;
+    padding-top:800px;
+}
+.profile{
+border-radius:50%;
+}
+#welcome{
+    position: absolute;
+    height: 100%;
+ background:linear-gradient(#4ceb34 0%,#34ebc3 100%);
+ display:table;
+    bottom: 0;
+    width: 100%;
+}
+#name{
+    font-size:50px;
+    font-family: 'Cinzel', serif;
+}
+h2{
+    font-size:30px;
+    font-family:cursive;
+    color:rgb(205, 0, 85);
+}
+    #Bio{
+      font-family:impact;  
+      padding:50px;
+    }
+ .line{
+height:6px;
+font-family:cursive;
+width:70px;
+font-size:30px;
+
+ }
+ .parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+ }
+ p{
+     color:rgb(30, 255, 0);
+     font-family:impact;
+ }
+ .menu{
+     position:fixed;
+     top:0px;
+     width:100%;
+     margin-top: 0px;
+     z-index: 10;
+     background: rgb(205, 0, 85);
+ }
+ .links{
+     padding-left: 30px;
+     padding-right: 25px;
+     font-family: cursive;
+     font-size: 20px;
+     display:inline;
+    
+ }
+ #VIDEOS{
+     box-align:center;
+     padding-left: 20px;
+ }
+ #a1{
+     font-size:30px;
+     font-family:initial;
+     
+    
+ }
+.links:hover{
+    font-size: 40px;
+    text-decoration:underline ;
+}
+.contact{
+    display:inline;
+}
+ 
